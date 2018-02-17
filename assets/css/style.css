@@ -105,11 +105,12 @@ nav a: first-child {
 
 .auth-image {
     width: 200px;
-    height: auto;
+    height: auto
+    x;
     margin-top: 10px;
     float: left;
     margin-right: 25px;
-}
+}pi
 
 /*sidebar*/
 .sidebar {
